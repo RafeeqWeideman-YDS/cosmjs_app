@@ -1,0 +1,21 @@
+.Home {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50rem;
+}
+
+.logo {
+  height: 50rem;
+  width: 500px;
+  border-style: solid;
+  border-color: silver;
+  background-image: url("../assets/dappLogo.svg");
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
